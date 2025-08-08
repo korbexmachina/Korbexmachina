@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Hi, my name is Korben! I'm a 3rd year student at UCSC, studying computer science and mathematics.
+Hi, my name is Korben! I'm a 4th year student at UCSC, studying computer science and mathematics.
 I like programming in rust 🦀, drinking tea ☕, and declarative configuration (nix!) ❄️.
 I enjoy working on computer systems, cybersecurity, and optimization problems.
 
