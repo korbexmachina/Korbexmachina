@@ -40,7 +40,9 @@ You can also check out my [🖋️ blog](https://blog.korbexmachina.com)!
 ![Static Badge](https://img.shields.io/badge/Insomnia-_?style=for-the-badge&logo=insomnia&logoColor=white&color=3a06b7)
 ![Static Badge](https://img.shields.io/badge/HTMX-_?style=for-the-badge&logo=htmx&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Tailwind-_?style=for-the-badge&logo=tailwindcss&color=black)
-![Static Badge](https://img.shields.io/badge/Neovim-_?style=for-the-badge&logo=neovim&logoColor=6d9949&color=11191e)
+![Static Badge](https://img.shields.io/badge/Neovim-_?style=for-the-badge&logo=neovim&logoColor=6d9949&labelColor=&color=11191e)
+![Static Badge](https://img.shields.io/badge/Haskell-_?style=for-the-badge&logo=haskell&logoColor=5d4f85&color=white)
+![Static Badge](https://img.shields.io/badge/OCaml-_?style=for-the-badge&logo=ocaml&logoColor=ec6813&color=white)
 
 ---
 
